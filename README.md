@@ -22,6 +22,6 @@ La **Banco Finandina App** es una aplicación móvil desarrollada en Flutter que
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/tuusuario/banco_finandina_app.git
+   git remote add origin https://github.com/Danilolo12/prueba_banco_finandina.git
    cd banco_finandina_app
 ## Desarrollador: Daniel Ramos
